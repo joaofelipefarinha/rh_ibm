@@ -5,7 +5,7 @@ Esse projeto foi desenvolvido utilizando o Jupyter Notebook e suas bibliotecas.
 A análise a seguir foi baseada nos dados da IBM, disponibilizados no site Kaggle.
 
 O estudo foi objetivado para entender padrões e comportamentos da empresa, a fim de melhorar a qualidade 
-do trabalho e otimizar os resultados dae negócio.
+do trabalho e otimizar os resultados de negócio.
 
 Perguntas a serem respondidas:
 
